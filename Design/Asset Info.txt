@@ -1,0 +1,10 @@
+Colours: 
+
+#7FCD91 - indigo
+#544C61 - green
+#F5F5F5 - grey-white
+
+Font: 
+
+Product Sans
+
