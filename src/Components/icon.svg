@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="349" height="292.5" viewBox="0 0 349 292.5">
+  <defs>
+    <filter id="Personality_" x="0" y="159" width="349" height="96" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Personality_2" x="0" y="159" width="349" height="96" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_3_1" data-name="Component 3 – 1" transform="translate(15 174)">
+    <g id="Component_1_1" data-name="Component 1 – 1">
+      <g transform="matrix(1, 0, 0, 1, -15, -174)" filter="url(#Personality_)">
+        <text id="Personality_3" data-name="Personality +" transform="translate(15 226)" fill="#544c61" font-size="54" font-family="ProductSans-Bold, Product Sans" font-weight="700"><tspan x="0" y="0">Personality +</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -15, -174)" filter="url(#Personality_2)">
+        <text id="Personality_4" data-name="Personality +" transform="translate(15 226)" fill="#544c61" font-size="54" font-family="ProductSans-Bold, Product Sans" font-weight="700"><tspan x="0" y="0">Personality +</tspan></text>
+      </g>
+    </g>
+    <g id="Component_2_1" data-name="Component 2 – 1" transform="translate(74.5 82.5)">
+      <line id="Line_1" data-name="Line 1" x2="170" fill="none" stroke="#7fcd91" stroke-width="4"/>
+      <path id="Path_1" data-name="Path 1" d="M0,0H85" transform="translate(43 17)" fill="none" stroke="#7fcd91" stroke-width="4"/>
+      <path id="Path_2" data-name="Path 2" d="M0,0H42.5" transform="translate(64 34)" fill="none" stroke="#7fcd91" stroke-width="4"/>
+    </g>
+  </g>
+</svg>
