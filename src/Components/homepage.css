@@ -20,17 +20,6 @@
     background-position-y: -125px;
 } 
 
-.Introbox{
-    height: 67vh;
-    width: 56vw;
-    padding: 10px 30px;
-    /* border: lightblue 5px solid; */
-    box-shadow: 0px 0px 12px #787878;
-    position: absolute;
-    margin-top: 23vh;
-    margin-left: 5vw;
-    background-color: #F5F5F5;
-}
 
 .imagecontainer{
     height: 100vh;
